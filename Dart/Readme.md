@@ -4,4 +4,4 @@
 
 ## 1. Syntax Basics
 
--   [](Syntax_Basics/Syntax_basics.md)
+-   [Syntax Basics for Dart language](Syntax_Basics/Syntax_basics.md)
