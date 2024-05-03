@@ -47,6 +47,6 @@
 
 ## Simple Type Assignment
 
-// insert image here to file markdown
-
 [![Simple type](../assets/TypeAssign.png)](https://dart.dev/language/type-system#simple-type-assignment)
+
+<span style="color:#3dfc69">Code in here</span>.
