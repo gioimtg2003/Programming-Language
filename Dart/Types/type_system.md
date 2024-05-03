@@ -49,4 +49,14 @@
 
 [![Simple type](../assets/TypeAssign.png)](https://dart.dev/language/type-system#simple-type-assignment)
 
-<span style="color:blue">Code in here</span>.
+$${\color{green}Success}$$
+
+```dart
+Animal cat = Cat();
+```
+
+$${\color{red}Error}$$
+
+```dart
+MaineCoon cat = Cat();
+```
