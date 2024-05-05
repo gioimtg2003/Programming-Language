@@ -153,4 +153,18 @@ void _isolate(SendPort sendPort) {
 
 # Summary
 
-    -   Sử dụng `Isolate` xử lý các tác vụ nặng, `async` để xử lý các tác vụ nhẹ such as: `I/O operations`, `network requests`, `timers`, `user input`, `file system operations`, `database operations`, `computationally expensive tasks`.
+-   Sử dụng `Isolate` xử lý các tác vụ nặng such as:
+    -   Xử lý dữ liệu lớn.
+    -   Xử lý các tác vụ đồng thời.
+    -   Xử lý các tác vụ đòi hỏi hiệu suất cao.
+-   Sử dụng `Async` xử lý các tác vụ nhẹ như:
+    -   Xử lý các tác vụ bất đồng bộ.
+    -   Xử lý các sự kiện liên tục.
+    -   Xử lý các tác vụ đơn giản.
+    -   Networking
+    -   File I/O
+    -   Database I/O
+    -   Image processing
+    -   Audio processing
+    -   Video processing
+    -   Pla pla
